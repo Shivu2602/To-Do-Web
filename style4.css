@@ -1,0 +1,147 @@
+ .parent{
+    filter: blur(8px);
+} 
+
+
+
+
+/* index2 */
+
+
+body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+.page2{
+    background-color: white;
+    width: 1400px;
+    height: 600px;
+    position: relative;
+    top: 50px;
+    left: 52px;
+    align-items: center;
+
+}
+.trip{
+text-align: center;
+font-weight: bolder;
+font-size: 50px;
+}
+.hr5{
+    position: relative;
+    left: -279px;
+    width: 261px;
+    bottom: -83px;
+
+}
+.hr6{
+position: relative;
+width: 261px;
+left: 280px;
+top:-75px
+}
+.back{
+    text-align: center;
+    font-size: 32px;
+    font-weight:bold;
+    color: lightgray;
+    position: relative;
+    top: -32px; 
+}
+.material-icons{
+    color: red;
+    font-weight: bold;
+    position: relative;
+    left: 615px;
+    top: -94px;
+}
+i{
+    position: relative;
+    left: 10px;
+}
+.paris1{
+    border: 1px red solid;
+    background-color: white;
+    height: 42vh;
+    width: 30vh;
+    position: relative;
+    left: 572px;
+    top: -42px;
+    border-radius: 10px;
+    box-shadow: 6px 5px 6px rgb(176 171 171);
+    padding-top: 10px;
+    padding-left: 57px;
+    padding-right: 57px;
+}
+.tr1{
+    color: red;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+    .hr10{
+    
+        position: relative;
+        left: 57px;
+    }
+    .complet1{
+        color: red;
+        font-size: 20px;
+        position: relative;
+        left: 56px;
+        font-weight: bold;
+    }
+    .pending0{
+        font-size:20px;
+        position: relative;
+        left: 2px;
+        
+    }
+    .pendings1{
+        position:relative;
+        left: 0px;
+    }
+
+    /* index4 */
+
+    .parent1{
+        z-index: 2;
+    }
+    .ad{
+        background-color: white;
+        border: 2px solid red;
+        width: 25vw;
+        height: 20vh;
+        text-align: center;
+        color: tomato;
+        position: relative;
+        top: -306px;
+        left: 580px;
+        padding: 22px 10px 21px 10px;
+    
+    }
+    .a{
+        font-size: 25px;
+    }
+    #text{
+        width: 15vw;
+        height: 3.5vh;
+        padding-bottom: 10px;
+        border-radius: 5px;
+    }
+    .btn{
+        margin: 0px 9px;
+        
+       background-color: tomato;
+       color: white;
+       border: 2px solid white;
+       border-radius: 15px;
+       font-size: 25px;
+       cursor: pointer;
+       position: relative;
+       top: 12px;
+    }
+    
+    
